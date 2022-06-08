@@ -65,6 +65,7 @@ public class App2 {
         }
         else {
             System.out.println("GoodBye");
+            System.out.println("Check");
         }
             
         }
